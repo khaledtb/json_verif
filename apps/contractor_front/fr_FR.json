@@ -1,5 +1,6 @@
 {
     "profile.edit.success": "perfect",
     "profile.edit.error": "error",
-    "modal.ueser.title": "re-bonjour"
+    "modal.user.title": "re-bonjour",
+    "user.notification.received": "vous avez de nouvelles notifications"
 }
