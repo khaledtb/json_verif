@@ -1,3 +1,4 @@
 {
-    "profile.edit.success": "parfait"
+    "profile.edit.success": "parfait",
+    "profile.edit.error": "erreur"
 }
